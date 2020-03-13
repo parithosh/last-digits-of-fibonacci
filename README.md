@@ -1,7 +1,7 @@
 # last-digits-of-fibonacci
 
 
-If one needs to calculate the last digits of a fibonacci number, One can calculate the fibonacci number and then take the last digits. However this gets infeasabile 
+If one needs to calculate the last digits of a fibonacci number, One can calculate the fibonacci number and then take the last digits. This gets infeasible 
 very quickly. 
 
 However, The fibonacci sequence follows a pattern when it comes to the last digits. The last digit repeats every 60 numbers, the last 2 digits repeats every 300 numbers, the last 3 
